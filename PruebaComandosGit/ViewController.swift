@@ -11,11 +11,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-       print ("hello word")
-<<<<<<< HEAD
-       print("Hello word 2")
-        print("Hello word 6")
-=======
+
       
         
         let customButton = UIButton()
@@ -34,7 +30,7 @@ class ViewController: UIViewController {
     
     @objc func buttonPressed(_ sender: UIButton) {
         print("Botón presionado")
->>>>>>> ButtonCustom
+
     }
 
 
